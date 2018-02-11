@@ -97,7 +97,7 @@
     position: absolute;
     bottom: 15px;
     right: 15px;
-    max-width: 100px;
+    max-width: 125px;
     max-height: 70px;
 
     border: none;
@@ -108,7 +108,7 @@
     background-color: hsl(164, 44%, 47%);
     border-radius: 4px;
     white-space: normal;
-    padding: 7px;
+    padding: 7px 20px;
 }
 
 /* arrows */
